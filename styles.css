@@ -1,0 +1,32 @@
+body {
+    font-family: Verdana, sans-serif;
+    color: black;
+    background-color: orange;
+}
+
+
+article {
+    background-color: beige;
+}
+
+footer {
+    margin-top: 40px;
+
+    background-color: beige;
+}
+
+section {
+    display: flex;
+    gap: 5px;
+
+
+}
+
+a {
+    text-decoration: none;
+    color: blue;
+}
+
+a:hover {
+    color: red;
+}
